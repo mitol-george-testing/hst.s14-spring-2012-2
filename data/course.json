@@ -1,0 +1,48 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Health and Medicine",
+      "Public Health"
+    ],
+    [
+      "Business",
+      "Health Care Management"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "International Development"
+    ],
+    [
+      "Business",
+      "Information Technology"
+    ],
+    [
+      "Business",
+      "Innovation"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "d1f991df-5344-505d-ef5a-138bd54d10ef",
+      "f3acc6a0-ce15-2805-875f-833672897d18",
+      "63a00f76-105c-6091-d09d-83837b079c6c",
+      "3625a2a7-b707-7a4c-97b2-ad0fc8bf1f8d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Health Information Systems to Improve Quality of Care in Resource-Poor Settings",
+  "course_description": "This course is a collaborative offering of [Sana](http://sana.mit.edu/), [Partners in Health](http://www.pih.org/), and the [Institute for Healthcare Improvement](http://www.ihi.org/Pages/default.aspx) (IHI). The goal of this course is the development of innovations in information systems for developing countries that will (1) translate into improvement in health outcomes, (2) strengthen the existing organizational infrastructure, and (3) create a collaborative ecosystem to maximize the value of these innovations. The course will be taught by guest speakers who are internationally recognized experts in the field and who, with their operational experiences, will outline the challenges they faced and detail how these were addressed.\n\nThis OCW site combines resources from the initial Spring 2011 offering of the course (numbered HST.184) and the Spring 2012 offering (numbered HST.S14).\n",
+  "department_numbers": [
+    "HST"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "HST.S14",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}
